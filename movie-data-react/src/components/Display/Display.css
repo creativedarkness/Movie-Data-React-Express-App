@@ -1,0 +1,13 @@
+.movieDisplay {
+    width: 325px;
+    height: auto;
+    display: inline-block;
+    padding: 10px;
+    margin: 25px;
+    border: 1px solid black;
+    text-align: center
+}
+
+/* .year {
+    text-align: center;
+} */

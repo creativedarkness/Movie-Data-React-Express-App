@@ -1,0 +1,15 @@
+.movieHistory {
+    width: 500px;
+    height: auto;
+    display: inline-block;
+    margin: 25px;
+    vertical-align: top;
+    border: 1px solid black;
+}
+li {
+    list-style-type: none;
+}
+h3 {
+    margin: 0;
+    text-align: center;
+}
